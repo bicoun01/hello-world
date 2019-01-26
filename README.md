@@ -1,4 +1,4 @@
 # hello-world
 Mon premier répertoire
 
-J'apprends autiliser github pour programmer des apps snips en python
+J'apprends à utiliser github pour programmer des apps snips en python
